@@ -1,6 +1,8 @@
 # notetate
 ## app for annotating animal vocalizations and other sounds
 
+![graphical user interface showing spectrogram of birdsong, amplitude waveform beneath it, and segments based on threshold crossings of amplitude that are annotated with text labels](./doc/images/annotation-example.png)
+
 ## about
 goals:
 - immediate:
